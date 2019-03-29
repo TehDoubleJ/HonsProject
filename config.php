@@ -3,7 +3,7 @@
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'db767701317.hosting-data.io');
 define('DB_USERNAME', 'dbo767701317');
-define('DB_PASSWORD', 'Tw1ster!');
+define('DB_PASSWORD', '');
 define('DB_NAME', 'db767701317');
  
 /* Attempt to connect to MySQL database */
